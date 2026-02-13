@@ -92,6 +92,6 @@
 |203|[行動3](https://github.com/Attilaxier/TaiwanAir_2023_203)|1280x720|
 |204|[行動4](https://github.com/Attilaxier/TaiwanAir_2023_204)|1920x1080|
 |310|[行動7](https://github.com/Attilaxier/TaiwanAir_2023_310)|1920x1080|
-|311|[行動站8](https://github.com/Attilaxier/TaiwanAir_2023_311)|1920x1080|
+|311|[行動8](https://github.com/Attilaxier/TaiwanAir_2023_311)|1920x1080|
 |312|[行動9](https://github.com/Attilaxier/TaiwanAir_2023_312)|1920x1080|
 |313|[行動10](https://github.com/Attilaxier/TaiwanAir_2023_313)|1920x1080|
